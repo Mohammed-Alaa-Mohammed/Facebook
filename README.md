@@ -5,6 +5,10 @@ Check Facebook Account Block or None
 
 ```python
 pip install pystyle
+```
+```python
 pip install selenium
+```
+```python
 pip install rich
 ```
