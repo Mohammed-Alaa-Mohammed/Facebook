@@ -14,12 +14,10 @@ pip install rich
 ```
 **Check Is Installed**
 ```shell
-cd "Your Folder in Download Tool
+cd "Your Folder in Download Tool"
 ```
-```shell
 **Run Tool**
-```
-```cmd
+```shell
 python Check Facebook Account.py
 ```
 
