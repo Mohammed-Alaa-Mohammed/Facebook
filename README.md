@@ -18,7 +18,7 @@ cd "Your Folder in Download Tool"
 ```
 **Run Tool**
 ```shell
-python Check Facebook Account.py
+"python Check Facebook Account.py"
 ```
 
 
