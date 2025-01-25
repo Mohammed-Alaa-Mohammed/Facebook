@@ -13,7 +13,7 @@ pip install selenium
 pip install rich
 ```
 **Run Tool**
-```shell
+```cmd
 python Check Facebook Account.py
 ```
 
