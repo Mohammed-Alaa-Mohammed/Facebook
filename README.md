@@ -17,8 +17,8 @@ pip install rich
 cd "Your Folder in Download Tool"
 ```
 **Run Tool**
-```shell
-"python Check Facebook Account.py"
+```powershell
+python Check Facebook Account.py
 ```
 
 
