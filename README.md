@@ -14,7 +14,7 @@ pip install rich
 ```
 **Run Tool**
 ```cmd
-ls
+ls or cd
 python Check Facebook Account.py
 ```
 
