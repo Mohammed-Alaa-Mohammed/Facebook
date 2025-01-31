@@ -5,7 +5,7 @@ By Developer | Mohammed Alaa Mohammed
 Date at | 2025 - 1 - 25
 ***
 
-### Installation - ***Libraries Required
+### Installation - **Libraries Required**
 
 
 ```python
